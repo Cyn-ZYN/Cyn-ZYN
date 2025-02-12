@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm CynZYN! I started this profile due to my involvement with the SleeperBot Precious Metals project. Check us out at www.store.sleeperbot.io/
 
 <!--
 **Cyn-ZYN/Cyn-ZYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
